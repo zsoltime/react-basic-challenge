@@ -1,12 +1,12 @@
-# 3 Weeks React Basic Challenge
+# React Basic Challenge
 
 The idea was to create simple throw-away ReactJS apps in ~~the next 3 weeks~~ this February, learn ReactJS thoroughly and come up with 3-4 real apps.
 
-Even if the projects themselves are not useful, the skills I can gain from working on them are.
+Even if the apps/projects themselves are not useful, the skills I can gain from working on them are.
 
-> It's really difficult for me to put anything but perfect online and it hasn't changed since my [3 weeks game challenge](https://github.com/zsoltime/game-challenge) in last December. Typing `git push` at the end of the day and making my code visible on a public repo still makes me feel bad :D The real challenge is not writing code but showing them to everyone.
+> It's really difficult for me to put anything but perfect online and it hasn't changed since my [3 weeks game challenge](https://github.com/zsoltime/game-challenge) in last December. The repos below are far from perfect so typing `git push` at the end of the day and making my code visible on a public repo still made me feel bad 😣 The real challenge is not writing code but showing them to everyone. 😇
 
-Here is a list of the apps I've created. ~~It may change a bit :)~~
+Here is a list of the apps I've created:
 
 - [x] [repo](https://github.com/zsoltime/react-gallery) [demo]() Day 01 - React Gallery
 - [x] [repo](https://github.com/zsoltime/react-leaderboard) [demo]() Day 02 - React Leaderboard
